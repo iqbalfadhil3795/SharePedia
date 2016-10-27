@@ -1,20 +1,20 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sharepedia.com" resolutions="1x" timestamp="1477454302098">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sharepedia.com" resolutions="1x" timestamp="1477559749768">
   <folder name="css">
     <file name="site_global.css" crc="453856629"/>
-    <file name="konfirmasi-pembelian.css" crc="3961145275" ref="konfirmasi-pembelian"/>
-    <file name="deskripsi-produk.css" crc="149851342" ref="deskripsi-produk"/>
-    <file name="log-in.css" crc="4245476272" ref="log-in"/>
-    <file name="pembelian-selesai.css" crc="297121157" ref="pembelian-selesai"/>
-    <file name="privacy.css" crc="4156855437" ref="privacy"/>
-    <file name="help.css" crc="4248548418" ref="help"/>
-    <file name="categories.css" crc="3826287530" ref="categories"/>
-    <file name="register-front.css" crc="297204425" ref="register-front"/>
-    <file name="index.css" crc="530841111" ref="index"/>
-    <file name="register-vendor.css" crc="214843320" ref="register-vendor"/>
-    <file name="terms-and-condition.css" crc="4239045314" ref="terms-and-condition"/>
-    <file name="register-user.css" crc="4180573956" ref="register-user"/>
-    <file name="about.css" crc="207919768" ref="about"/>
-    <file name="registrasi-selesai.css" crc="4149814232" ref="registrasi-selesai"/>
+    <file name="konfirmasi-pembelian.css" crc="4096761838" ref="konfirmasi-pembelian"/>
+    <file name="deskripsi-produk.css" crc="193607274" ref="deskripsi-produk"/>
+    <file name="log-in.css" crc="24554628" ref="log-in"/>
+    <file name="pembelian-selesai.css" crc="60225620" ref="pembelian-selesai"/>
+    <file name="privacy.css" crc="3894457177" ref="privacy"/>
+    <file name="help.css" crc="217891095" ref="help"/>
+    <file name="categories.css" crc="3981808493" ref="categories"/>
+    <file name="register-front.css" crc="348131660" ref="register-front"/>
+    <file name="index.css" crc="510318155" ref="index"/>
+    <file name="register-vendor.css" crc="3816432632" ref="register-vendor"/>
+    <file name="terms-and-condition.css" crc="4183587581" ref="terms-and-condition"/>
+    <file name="register-user.css" crc="506661797" ref="register-user"/>
+    <file name="about.css" crc="78510605" ref="about"/>
+    <file name="registrasi-selesai.css" crc="3821976202" ref="registrasi-selesai"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:register-user:deskripsi-produk:log-in:categories:konfirmasi-pembelian:pembelian-selesai:register-vendor:about:help:register-front:privacy:terms-and-condition:registrasi-selesai"/>
@@ -28,8 +28,8 @@
     <file name="form_throttle.php" crc="3908387251" ref="register-user:log-in:register-vendor"/>
     <file name="form_process.php" crc="24249335" ref="register-user:log-in:register-vendor"/>
     <file name="form-u200.php" crc="363709071" ref="register-user"/>
-    <file name="pie.js" crc="3827607177" ref="deskripsi-produk:konfirmasi-pembelian:help"/>
-    <file name="form-u465.php" crc="3852341285" ref="log-in"/>
+    <file name="pie.js" crc="3827607177" ref="deskripsi-produk:help:pembelian-selesai"/>
+    <file name="form-u465.php" crc="52618305" ref="log-in"/>
     <file name="form-u683.php" crc="241235778" ref="register-vendor"/>
   </folder>
   <folder name="images">
@@ -46,24 +46,24 @@
     <file name="u466-17-r.png" crc="132524607" ref="log-in"/>
     <file name="u466-17-m.png" crc="4238838402" ref="log-in"/>
     <file name="u466-17-fs.png" crc="3875705978" ref="log-in"/>
-    <file name="16711-nqrdok.jpg" crc="159873234" seo="true" ref="pembelian-selesai:registrasi-selesai"/>
+    <file name="16711-nqrdok.jpg" crc="159873234" seo="true" ref="registrasi-selesai:konfirmasi-pembelian"/>
     <file name="u698-17.png" crc="280607315" ref="register-vendor"/>
     <file name="u698-17-r.png" crc="91416124" ref="register-vendor"/>
     <file name="u698-17-m.png" crc="3829259797" ref="register-vendor"/>
     <file name="u698-17-fs.png" crc="4205947500" ref="register-vendor"/>
   </folder>
-  <file name="index.html" crc="4228081395" seo="true" mt="1477453123588" redirect="true"/>
-  <file name="register-user.html" crc="4009593831" seo="true" mt="1477453992884" redirect="true"/>
-  <file name="deskripsi-produk.html" crc="301141330" seo="true" mt="1477452943289" redirect="true"/>
-  <file name="log-in.html" crc="3790618632" seo="true" mt="1477452846128" redirect="true"/>
-  <file name="categories.html" crc="250414291" seo="true" mt="1477453003613" redirect="true"/>
-  <file name="konfirmasi-pembelian.html" crc="530219990" seo="true" mt="1477452915382" redirect="true"/>
-  <file name="pembelian-selesai.html" crc="505766450" seo="true" mt="1477452888273" redirect="true"/>
-  <file name="register-vendor.html" crc="3784942850" seo="true" mt="1477453931998" redirect="true"/>
-  <file name="about.html" crc="12150234" seo="true" mt="1477454272521" redirect="true"/>
-  <file name="help.html" crc="4050892382" seo="true" mt="1477452926625" redirect="true"/>
-  <file name="register-front.html" crc="221142529" seo="true" mt="1477452966309" redirect="true"/>
-  <file name="privacy.html" crc="411995626" seo="true" mt="1477453235491" redirect="true"/>
-  <file name="terms-and-condition.html" crc="3838474561" seo="true" mt="1477453314502" redirect="true"/>
-  <file name="registrasi-selesai.html" crc="3820495180" seo="true" mt="1477453886201" redirect="true"/>
+  <file name="index.html" crc="124833850" seo="true" mt="1477559327706" redirect="true"/>
+  <file name="register-user.html" crc="293843090" seo="true" mt="1477559470040" redirect="true"/>
+  <file name="deskripsi-produk.html" crc="3868831047" seo="true" mt="1477559531167" redirect="true"/>
+  <file name="log-in.html" crc="123794165" seo="true" mt="1477559738736" redirect="true"/>
+  <file name="categories.html" crc="4285778452" seo="true" mt="1477545800094" redirect="true"/>
+  <file name="konfirmasi-pembelian.html" crc="3896347665" seo="true" mt="1477559616653" redirect="true"/>
+  <file name="pembelian-selesai.html" crc="465257289" seo="true" mt="1477559630874" redirect="true"/>
+  <file name="register-vendor.html" crc="527362218" seo="true" mt="1477559512271" redirect="true"/>
+  <file name="about.html" crc="368159279" seo="true" mt="1477559549934" redirect="true"/>
+  <file name="help.html" crc="311808388" seo="true" mt="1477559599269" redirect="true"/>
+  <file name="register-front.html" crc="4109321376" seo="true" mt="1477559488221" redirect="true"/>
+  <file name="privacy.html" crc="3765081669" seo="true" mt="1477559565549" redirect="true"/>
+  <file name="terms-and-condition.html" crc="135751594" seo="true" mt="1477559582078" redirect="true"/>
+  <file name="registrasi-selesai.html" crc="4090868892" seo="true" mt="1477559725966" redirect="true"/>
 </manifest>
